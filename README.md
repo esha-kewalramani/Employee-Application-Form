@@ -1,4 +1,4 @@
-# 📝 Employee Admission Form (Glassmorphism UI)
+# 📝 Employee Application Form (Glassmorphism UI)
 
 A modern and responsive employee admission form built using HTML and CSS featuring a stylish glassmorphism design.
 
